@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+}
+
+body {
+  background-color: hsl(230, 97%, 13%);
+  min-height: 100svh;
+  border: white solid 3px;
+}
+
+h1 {
+  color: #fff;
+  font-size: 50px;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+}
+
+div {
+  max-width: 320px;
+  min-height: 200px;
+  border: solid 5px white;
+  padding: 20px;
+  margin: 100px auto;
+}
